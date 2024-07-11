@@ -1,8 +1,4 @@
-
-  
 ![transparent](https://capsule-render.vercel.app/api?type=waving&height=300&color=23439C&text=Welcome&desc=KimChanJin97%20Github%20Profile&descAlign=56&descAlignY=57&descSize=20&fontColor=DFE4F0&fontSize=90&fontAlign=50&fontAlignY=37)
-
-
 
 <div align="center">
   
@@ -39,10 +35,8 @@
 <br>
 <br>
 
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/KimChanJin97"
-  width="600"
-  height="300"
-/>
-</a>
+<div align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/KimChanJin97" width="600" height="300"/>
+  </a>
+</div>
