@@ -4,7 +4,7 @@
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
-  I'm ChanJin 🌱 <br>
+  I'm Kim Chan Jin 🌱 <br>
 </p>
 
 <br>
@@ -23,7 +23,7 @@
 <h3 align="center"> 😁 More about me 😁 </h3>
 
 <p align="center">
-  <a href="mailto:leahpar0401@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cjkimhello97@gmail.com"/></a>
+  <a href="mailto:cjkimhello97@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cjkimhello97@gmail.com"/></a>
 </p>
 
 <br>
