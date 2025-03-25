@@ -1,11 +1,5 @@
 ![transparent](https://capsule-render.vercel.app/api?type=waving&height=300&color=23439C&text=Welcome&desc=KimChanJin97%20Github%20Profile&descAlign=56&descAlignY=57&descSize=20&fontColor=DFE4F0&fontSize=90&fontAlign=50&fontAlignY=37)
 
-<div align="center">
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimChanJin97&count_bg=%235664C9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
-
 <br>
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
